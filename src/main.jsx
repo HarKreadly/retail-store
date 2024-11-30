@@ -6,4 +6,6 @@ import Head from "./Components/Head.jsx";
 import "boxicons/css/boxicons.min.css";
 import ProductsList from "./Components/ProductsList.jsx";
 
-createRoot(document.getElementById("root")).render(<ProductsList />);
+createRoot(document.getElementById("root")).render(
+<ProductsList />
+);

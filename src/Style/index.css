@@ -4,6 +4,7 @@
 
 @layer base {
   body {
-    @apply prose prose-lg;
+    @apply prose;
+    
   }
 }
